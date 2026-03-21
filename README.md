@@ -2,7 +2,7 @@
 
 <h3>A comprehensive AI-powered recruitment platform that automates candidate sourcing, scheduling, voice interviews, and report generation. The system reduces HR manual effort by 50–80% and accelerates the hiring process with intelligent automation.</h3>
 
-<h1>Demo</h1>
+<h1></h1>
 
 <img width="1920" height="893" alt="Screenshot 2026-03-21 171900" src="https://github.com/user-attachments/assets/8f3cc519-f60f-4a73-b0d6-ab9871a3943f" />
 
