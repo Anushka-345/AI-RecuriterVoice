@@ -112,6 +112,12 @@ Start the development server:
 
 npm run dev
 
+<h1>Demo</h1>
+
+<img width="1920" height="893" alt="Screenshot 2026-03-21 171900" src="https://github.com/user-attachments/assets/8f3cc519-f60f-4a73-b0d6-ab9871a3943f" />
+
+<img width="1920" height="879" alt="Screenshot 2026-03-21 174708" src="https://github.com/user-attachments/assets/21a477d8-2252-40e5-8768-98cfc234496f" />
+
 <h1>📁 Application Structure</h1>
 /app
   /(auth)
@@ -180,13 +186,6 @@ Secure authentication with Supabase Auth
 Protected routes and API key management
 
 Data isolation per organization
-
-<h1>Demo</h1>
-
-<img width="1920" height="893" alt="Screenshot 2026-03-21 171900" src="https://github.com/user-attachments/assets/8f3cc519-f60f-4a73-b0d6-ab9871a3943f" />
-
-<img width="1920" height="879" alt="Screenshot 2026-03-21 174708" src="https://github.com/user-attachments/assets/21a477d8-2252-40e5-8768-98cfc234496f" />
-
 
 <h1>⚡ Performance Metrics</h1>
 
