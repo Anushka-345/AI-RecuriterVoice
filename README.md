@@ -112,24 +112,6 @@ Start the development server:
 
 npm run dev
 
-Open http://localhost:3000
-
-First Steps
-
-Sign up for an account
-
-Create job positions
-
-Add interview questions
-
-Add candidates
-
-Schedule interviews
-
-Conduct voice interviews
-
-View AI-generated reports
-
 <h1>📁 Application Structure</h1>
 /app
   /(auth)
@@ -150,6 +132,8 @@ View AI-generated reports
   supabase.ts        - Database client
   auth-context.tsx   - Authentication provider
   utils.ts           - Utility functions
+
+  
 <h1>🗂️ Key Pages</h1>
 
 Dashboard – Overview metrics, recent activity, and quick actions
@@ -162,7 +146,9 @@ Voice Interviews – Conduct AI-powered voice interviews, record responses, trac
 
 Reports – Detailed candidate assessments, scores, and hiring recommendations
 
+
 <h1>🤖 AI Integration<h1></h1>
+  
 Voice AI
 
 Integration with Murf AI or Falcon AI
@@ -195,24 +181,12 @@ Protected routes and API key management
 
 Data isolation per organization
 
-<h1>🌐 Deployment<h1></h1>
-Vercel
+<h1>Demo</h1>
 
-Push code to GitHub
+<img width="1920" height="893" alt="Screenshot 2026-03-21 171900" src="https://github.com/user-attachments/assets/8f3cc519-f60f-4a73-b0d6-ab9871a3943f" />
 
-Import project in Vercel
+<img width="1920" height="879" alt="Screenshot 2026-03-21 174708" src="https://github.com/user-attachments/assets/21a477d8-2252-40e5-8768-98cfc234496f" />
 
-Add environment variables
-
-Deploy
-
-Netlify
-
-Connect repository
-
-Configure environment variables
-
-Deploy
 
 <h1>⚡ Performance Metrics</h1>
 
