@@ -2,6 +2,12 @@
 
 <h3>A comprehensive AI-powered recruitment platform that automates candidate sourcing, scheduling, voice interviews, and report generation. The system reduces HR manual effort by 50–80% and accelerates the hiring process with intelligent automation.</h3>
 
+<h1>Demo</h1>
+
+<img width="1920" height="893" alt="Screenshot 2026-03-21 171900" src="https://github.com/user-attachments/assets/8f3cc519-f60f-4a73-b0d6-ab9871a3943f" />
+
+<img width="1920" height="879" alt="Screenshot 2026-03-21 174708" src="https://github.com/user-attachments/assets/21a477d8-2252-40e5-8768-98cfc234496f" />
+
 <h1>✨ Features</h1>
 <h2> Candidate Sourcing & Screening 📝</h2>
 
@@ -44,11 +50,6 @@ Sentiment analysis and communication scoring
 Structured reports with scores, feedback, and recommendations
 
 Impact: Saves 70–80% of manual evaluation effort
-<h1>Demo</h1>
-
-<img width="1920" height="893" alt="Screenshot 2026-03-21 171900" src="https://github.com/user-attachments/assets/8f3cc519-f60f-4a73-b0d6-ab9871a3943f" />
-
-<img width="1920" height="879" alt="Screenshot 2026-03-21 174708" src="https://github.com/user-attachments/assets/21a477d8-2252-40e5-8768-98cfc234496f" />
 
 <h4>Comprehensive Dashboard 🖥️</h4>
 
