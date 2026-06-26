@@ -1,5 +1,4 @@
-<h1>🤖 AI Recruiter Voice Agent – Full-Stack Application</h1>
-
+<h1> IntelliHire Voice Recruitment Platform <h1>
 <h3>A comprehensive AI-powered recruitment platform that automates candidate sourcing, scheduling, voice interviews, and report generation. The system reduces HR manual effort by 50–80% and accelerates the hiring process with intelligent automation.</h3>
 
 <h1></h1>
